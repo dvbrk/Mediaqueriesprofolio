@@ -73,11 +73,7 @@ margin-bottom:6em
       width: 100% ;
       display: flex; justify-content: flex-start;
     }
-    .header {
-      float: right;
-      width: 100% ;
-      display: flex; justify-content: flex-start;
-    }
+  
     .progress {
       float: left ;
       width: 100% ;
